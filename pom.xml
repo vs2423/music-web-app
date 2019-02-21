@@ -131,7 +131,7 @@
     <repository>
         <id>release</id>
         <name>Dev</name>
-        <url>http://18.217.209.105:8081/#admin/repository/repositories:gameoflife-dev</url>
+        <url>http://13.234.77.124:8081/#admin/repository/repositories:gameoflife-repo</url>
     </repository>
 </distributionManagement>
 
